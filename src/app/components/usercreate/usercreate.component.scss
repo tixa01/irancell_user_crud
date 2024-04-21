@@ -1,0 +1,87 @@
+.main_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.layer_one{
+    display: flex;
+}
+.layer_two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.action-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.date-picker{
+    margin-left: 115px;
+}
+.submit-btn:disabled{
+    background-color: #c0c0c0 !important;
+    color: white !important;
+    border-radius: 12px;
+    width: 83%;
+    height: 55px;
+}
+
+
+.custom-form{
+    margin-top: 13vh;
+}
+.login-form{
+    background-color: transparent; 
+    height: 100% !important;
+    // padding-bottom: auto;
+}
+.main-container{
+    display: flex;
+}
+.image{
+    width: 101%;
+    object-fit: cover;
+    border-radius: 15px 0px 0px 15px;
+    
+}
+.title{
+    text-align: center;
+    font-size:x-large;
+    font-weight: bold;
+    margin-top: 10vh;
+}
+.main{
+    background-color: white;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .custom-checkbox{
+    margin: 0 12px;
+    border-radius: 70% !important;
+    font-family: 'IRANSansWeb(FaNum)' !important;
+  }
+.sub-action{
+    margin-right: -20px;
+    margin-left: 5px;
+}
+.btn-container{
+    margin-top: 15vh;
+}
+.submit-btn{
+    background-color: #3d5eff !important;
+    color: white !important;
+    border-radius: 12px;
+    width: 83%;
+    height: 55px;
+}
+
+

@@ -1,0 +1,30 @@
+.example-container {
+    height: 400px;
+    overflow: auto;
+  }
+  
+//   table {
+//     width: 100%;
+//   }
+  ::ng-deep c-container.h-auto.px-4.container-lg{
+    display: inline !important;
+  }
+.custom-table{
+border-radius: 10px !important;
+}
+
+table{
+border-radius: 10px;
+}
+.main_container{
+background-color: white;
+border: 1px solid white;
+border-radius: 10px;
+}
+.layer{
+    padding: 20px;
+}
+.btn{
+    background-color:  red;
+    color: white;
+}
